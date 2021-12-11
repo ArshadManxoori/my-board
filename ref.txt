@@ -8,6 +8,8 @@ drawing documentry -> https://developer.mozilla.org/en-US/docs/Learn/JavaScript/
 socketio cdn -> https://socket.io/docs/v4/client-installation/
 
 
+git config user.email "you@example.com"
+git config user.name "Your Name"
 
 
 
